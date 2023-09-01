@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{siteTitle} </title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>I am a third year computer engineering student of the University of the Assumption.
